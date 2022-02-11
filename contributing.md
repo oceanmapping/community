@@ -46,4 +46,3 @@ GitHub has several helpful resources:
 1. [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 1. Using [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart) for [troubleshooting](https://github.com/oceanmapping/community/wiki/Troubleshooting)
 1. Add other resources you like!
-2. 
