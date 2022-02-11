@@ -1,2 +1,2 @@
 # mb_wiki
-Multibeam mapping community resources hosted by the MAC
+Ocean mapping community resources hosted by the MAC.
