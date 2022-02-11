@@ -5,6 +5,8 @@ Thank you for contributing your expertise and experience.
 
 As with the rest of the wiki, these Contribution Guidelines are in development to help establish a high degree of relevance and ease-of-use.
 
+In all cases, we seek to follow the [Code of Conduct](https://github.com/oceanmapping/community/blob/main/CODE_OF_CONDUCT.md) and [GitHub Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines)
+
 # Scope
 It is important to consider the scope of the wiki so its content is relevant and easily maintained.
 Suggested topics for [multibeam](https://github.com/oceanmapping/community/wiki#multibeam-topics) and [other systems](https://github.com/oceanmapping/community/wiki#other-mapping-topics) have been added by the first contributors, highlighting some areas of common interest.
