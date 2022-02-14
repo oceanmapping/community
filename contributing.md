@@ -47,4 +47,5 @@ GitHub has several helpful resources:
 1. [Using wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis)
 1. [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 1. Using [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart) for [troubleshooting](https://github.com/oceanmapping/community/wiki/Troubleshooting)
+1. [Resizing images](https://gist.github.com/MichaelPolla/a65ac84286ab523603e64549f9850223) in articles
 1. Add other resources you like!
