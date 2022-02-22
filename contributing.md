@@ -42,7 +42,7 @@ Remember this is new for many of us and we are excited for your contributions!
 You don't have join GitHub to contribute.  Please reach out to any of the [wiki managers](https://github.com/oceanmapping/community/wiki#contact-us) with the content or updates you'd like to see.
 
 # Support
-GitHub and others have several helpful resources:
+Helpful resources from GitHub and others:
 1. [Writing on GitHub](https://docs.github.com/en/github/writing-on-github)
 1. [Using wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis)
 1. [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
